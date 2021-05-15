@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GameManager
+  - Score
+  - Natyga
+  - 1Star
+  - 3Star
+  - 5Star
+  - ExamName
+  - ExamHUD
+  - Question
+  - Answer1
+  - Answer2
+  - Answer3
+  - Answer4
+  - Result
+  - OkButton
+  - Stars
+  - score
+  - QuestionHUD
+  - EducationHUD
+  - Lesson
+  - VideoPlayer
+  - PreviousButton
+  - NextButton
+  - MissionStars
+  - StarHUD
+  - StarCarryer
+  - Animation
+  - NextLevel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Qestion
+  - Animation
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Qestion
+    uniqueID: 1668162225
+    locked: 0
+  - name: Animation
+    uniqueID: 2278372039
+    locked: 0

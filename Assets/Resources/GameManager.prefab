@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2731969064506587681
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2731969064506587683}
+  - component: {fileID: 2731969064506587682}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: GameManager
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2731969064506587683
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2731969064506587681}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 54.953896, y: 146.22624, z: -19.235283}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2731969064506587682
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2731969064506587681}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f196f8f736ad11b48b5311032431bf05, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  units:
+  - firstexam:
+      questions:
+      - question: {fileID: 21300000, guid: 70808017c8a824142b3dc29ab9863bae, type: 3}
+        answers:
+        - answer: {fileID: 21300000, guid: 3100cf4efac398b4eafbd28d61a4e29f, type: 3}
+          _isRight: 0
+        - answer: {fileID: 21300000, guid: 694f46c5bd609d044a1d4ff1929aae43, type: 3}
+          _isRight: 0
+        - answer: {fileID: 21300000, guid: a011ebef873fb2d4e81d565fc3c9db1a, type: 3}
+          _isRight: 1
+        - answer: {fileID: 21300000, guid: fd7f4702563258942bb518574de9920e, type: 3}
+          _isRight: 0
+      - question: {fileID: 0}
+        answers:
+        - answer: {fileID: 0}
+          _isRight: 0
+        - answer: {fileID: 0}
+          _isRight: 0
+        - answer: {fileID: 0}
+          _isRight: 0
+        - answer: {fileID: 0}
+          _isRight: 0
+      - question: {fileID: 0}
+        answers: []
+      - question: {fileID: 0}
+        answers: []
+      - question: {fileID: 0}
+        answers: []
+      - question: {fileID: 0}
+        answers: []
+    goals: {fileID: 0}
+    unitExplain: []
+    lastExam:
+      questions: []
+    video: {fileID: 0}
+  - firstexam:
+      questions: []
+    goals: {fileID: 0}
+    unitExplain: []
+    lastExam:
+      questions: []
+    video: {fileID: 0}
+  - firstexam:
+      questions: []
+    goals: {fileID: 0}
+    unitExplain: []
+    lastExam:
+      questions: []
+    video: {fileID: 0}
+  - firstexam:
+      questions: []
+    goals: {fileID: 0}
+    unitExplain: []
+    lastExam:
+      questions: []
+    video: {fileID: 0}
+  - firstexam:
+      questions: []
+    goals: {fileID: 0}
+    unitExplain: []
+    lastExam:
+      questions: []
+    video: {fileID: 0}
+  - firstexam:
+      questions: []
+    goals: {fileID: 0}
+    unitExplain: []
+    lastExam:
+      questions: []
+    video: {fileID: 0}
+  - firstexam:
+      questions: []
+    goals: {fileID: 0}
+    unitExplain: []
+    lastExam:
+      questions: []
+    video: {fileID: 0}
+  - firstexam:
+      questions: []
+    goals: {fileID: 0}
+    unitExplain: []
+    lastExam:
+      questions: []
+    video: {fileID: 0}
+  - firstexam:
+      questions: []
+    goals: {fileID: 0}
+    unitExplain: []
+    lastExam:
+      questions: []
+    video: {fileID: 0}
+  Boxs:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  stars:
+  - {fileID: 21300000, guid: a6eb8c499fd909244910cfd138f38d9c, type: 3}
+  - {fileID: 21300000, guid: 59ef831e78ae1734195282b7a216a929, type: 3}
+  - {fileID: 21300000, guid: 36572b692858a194d8114d7f5e9dbf3d, type: 3}

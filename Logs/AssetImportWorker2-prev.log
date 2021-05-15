@@ -1,0 +1,678 @@
+Using pre-set license
+Built from 'trunk' branch; Version is '2021.1.0a9 (18321e85013a) revision 1585694'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.685; Version 2009; 64bit' Language: 'en' Physical Memory: 7970 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Program Files\Unity\Hub\Editor\2021.1.0a9\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+D:/Users/ibadr/Downloads/Projects/Unity/Mobile Appliation
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+59345
+Successfully changed project path to: D:/Users/ibadr/Downloads/Projects/Unity/Mobile Appliation
+D:/Users/ibadr/Downloads/Projects/Unity/Mobile Appliation
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 36.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.0a9 (18321e85013a)
+[Subsystems] Discovering subsystems at path D:/Program Files/Unity/Hub/Editor/2021.1.0a9/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Users/ibadr/Downloads/Projects/Unity/Mobile Appliation/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c8c)
+    Vendor:   
+    VRAM:     4018 MB
+    Driver:   27.21.14.6089
+Initialize mono
+Mono path[0] = 'D:/Program Files/Unity/Hub/Editor/2021.1.0a9/Editor/Data/Managed'
+Mono path[1] = 'D:/Program Files/Unity/Hub/Editor/2021.1.0a9/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Program Files/Unity/Hub/Editor/2021.1.0a9/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56664
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/Unity/Hub/Editor/2021.1.0a9/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: D:/Program Files/Unity/Hub/Editor/2021.1.0a9/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.001908 seconds.
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 34.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.063 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000717 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 34.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.279 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.18 seconds
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1836 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 219.2 MB.
+System memory in use after: 219.3 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2299.
+Total: 3.669800 ms (FindLiveObjects: 0.729800 ms CreateObjectMapping: 0.215300 ms MarkObjects: 2.596700 ms  DeleteObjects: 0.125400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Sprites/Questiones/Unit2Exam
+  artifactKey: Guid(00de9b7f5c7e92c40b5952086b3128de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam using Guid(00de9b7f5c7e92c40b5952086b3128de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81b1ff6ca4222dee7f7047ae6490e727') in 0.023635 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 153.676119 seconds.
+  path: Assets/Sprites/EducationalScene/Unit1/مادة الحاسوب للصف الأول الابتدائي درس (أنواع الحاسوب).mp4
+  artifactKey: Guid(24e860dd87ba5a44db19a9143de7ac48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/EducationalScene/Unit1/مادة الحاسوب للصف الأول الابتدائي درس (أنواع الحاسوب).mp4 using Guid(24e860dd87ba5a44db19a9143de7ac48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '147b0e209532cd2a7b69c6d069f1da8f') in 0.247570 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.976019 seconds.
+  path: Assets/Resources/1Star.prefab
+  artifactKey: Guid(515dacb586f8d9c4b9bf3c47a71a92a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/1Star.prefab using Guid(515dacb586f8d9c4b9bf3c47a71a92a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5cd082b389bafef8cd12cc4a731de2b') in 1.039671 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015751 seconds.
+  path: Assets/Sprites/ExamScene/2Stars.psd
+  artifactKey: Guid(59ef831e78ae1734195282b7a216a929) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/ExamScene/2Stars.psd using Guid(59ef831e78ae1734195282b7a216a929) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e85e3ab1e9dff1acea7c81142dea4062') in 0.331452 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.018172 seconds.
+  path: Assets/Resources/5Star.prefab
+  artifactKey: Guid(8c001e9a61210a14eba2ee5bcddc626c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/5Star.prefab using Guid(8c001e9a61210a14eba2ee5bcddc626c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a533a06ea47fe0cad3ac59f6c4801f38') in 0.069705 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.016763 seconds.
+  path: Assets/Sprites/StartScene/StanderdBackground.psd
+  artifactKey: Guid(6566f49d485df71468567534c631aea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StartScene/StanderdBackground.psd using Guid(6566f49d485df71468567534c631aea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56d366ab992bac2d0dd8da0226fa714f') in 0.105206 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.018270 seconds.
+  path: Assets/Resources/3Star.prefab
+  artifactKey: Guid(41130a09d06b412479b2694094cdc848) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/3Star.prefab using Guid(41130a09d06b412479b2694094cdc848) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6679425d94dbf2df936ba94a825e5ece') in 0.036113 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.023853 seconds.
+  path: Assets/Sprites/ExamScene/1Stars.psd
+  artifactKey: Guid(a6eb8c499fd909244910cfd138f38d9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/ExamScene/1Stars.psd using Guid(a6eb8c499fd909244910cfd138f38d9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8bc4531a4bd9b9d9f0f243bbe894f18') in 0.039326 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.025739 seconds.
+  path: Assets/Sprites/ExamScene/3Stars.psd
+  artifactKey: Guid(36572b692858a194d8114d7f5e9dbf3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/ExamScene/3Stars.psd using Guid(36572b692858a194d8114d7f5e9dbf3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb670cd4c325980945c0bebd6aef0be8') in 0.067264 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.455389 seconds.
+  path: Assets/Sprites/Questiones/StanderdQuestionBackGround.png
+  artifactKey: Guid(8097bb8f38dcc414d8c6abcf67acb025) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/StanderdQuestionBackGround.png using Guid(8097bb8f38dcc414d8c6abcf67acb025) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '544362e07230076b6664384b8afefa5a') in 0.314890 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 205.010919 seconds.
+  path: Assets/Sprites/LevesMapScene/Map.jpeg
+  artifactKey: Guid(ca07a21dbb76ea64bbe064cd6b8b159b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/LevesMapScene/Map.jpeg using Guid(ca07a21dbb76ea64bbe064cd6b8b159b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e04ec035f6cacde94dd4afaa2aae06e') in 0.042361 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.898557 seconds.
+  path: Assets/Sprites/EducationalScene/Unit2/Goals.png
+  artifactKey: Guid(7f6c9564e642a064fbe674810a5928ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/EducationalScene/Unit2/Goals.png using Guid(7f6c9564e642a064fbe674810a5928ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c57e482e8a9024685311caf519ebe6e9') in 0.060547 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 131.135760 seconds.
+  path: Assets/Sprites/Questiones/Unit3Exam
+  artifactKey: Guid(b0d1ee4921e6dd34fad0ac02fd437c31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit3Exam using Guid(b0d1ee4921e6dd34fad0ac02fd437c31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bfbf399536216e72522e221bde4730b') in 0.010468 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.831908 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam
+  artifactKey: Guid(23f095fee328dc243baf9966b5dcbbb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam using Guid(23f095fee328dc243baf9966b5dcbbb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58aa2a2d0902f61350831749373ed5bd') in 0.009452 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 25.519120 seconds.
+  path: Assets/Sprites/Questiones/Unit3Exam/Unit3FirstExam
+  artifactKey: Guid(a558b6128aa5a9f49add09922f6647c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit3Exam/Unit3FirstExam using Guid(a558b6128aa5a9f49add09922f6647c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f913420bd78e731cc238888deba3f94') in 0.005501 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 551.803668 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam
+  artifactKey: Guid(8a4d35ab0d653b64f99e9f59133874bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam using Guid(8a4d35ab0d653b64f99e9f59133874bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5285c7163c788fabaf5876f56bb0d41') in 0.010259 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.244876 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/1.QS.png
+  artifactKey: Guid(73f5acdebf542e34eb944810e462d164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/1.QS.png using Guid(73f5acdebf542e34eb944810e462d164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1c8858954b536cd66d5cef026471652') in 0.112081 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2681.957172 seconds.
+  path: Assets/Sprites/Questiones/Unit1Exam/Unit1FirstExam/4.QS.png
+  artifactKey: Guid(57710d3b701c64b47bbf463ddd8aeefe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit1Exam/Unit1FirstExam/4.QS.png using Guid(57710d3b701c64b47bbf463ddd8aeefe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bd8974d8df3c3a414fb13cfe656a0d2') in 0.070709 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 289.303258 seconds.
+  path: Assets/Sprites/Questiones/Unit1Exam/Unit1FirstExam/5.QS.png
+  artifactKey: Guid(ea10928621b27ea43bb46c64a8fdfc76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit1Exam/Unit1FirstExam/5.QS.png using Guid(ea10928621b27ea43bb46c64a8fdfc76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '436070d3601fd9c86193c223eddc3b1a') in 0.069586 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.563454 seconds.
+  path: Assets/Sprites/Questiones/Unit1Exam/Unit1FirstExam/6.QS.png
+  artifactKey: Guid(4090981fef8b0514284b39ddea7b7b2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit1Exam/Unit1FirstExam/6.QS.png using Guid(4090981fef8b0514284b39ddea7b7b2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c7ae2c7604bfec0197958e64286da83') in 0.034813 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 742.006675 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/1.QS1.Answer.png
+  artifactKey: Guid(d93ca5fd63f6f0349b3d80ee6c75c922) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/1.QS1.Answer.png using Guid(d93ca5fd63f6f0349b3d80ee6c75c922) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '056e609e96883341c5fd4a49e87c20f2') in 0.166749 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.016260 seconds.
+  path: Assets/Sprites/Questiones/Unit1Exam/Unit1LastExam/1.QS2.Answer.png
+  artifactKey: Guid(694f46c5bd609d044a1d4ff1929aae43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit1Exam/Unit1LastExam/1.QS2.Answer.png using Guid(694f46c5bd609d044a1d4ff1929aae43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '384aafb4f8df985e7174bd0c668c47fd') in 0.080027 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.020571 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/1.QS2.Answer.png
+  artifactKey: Guid(a6916d99ad6ea784da2274808636d92c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/1.QS2.Answer.png using Guid(a6916d99ad6ea784da2274808636d92c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b120523c64ff4c4a55a98db400c2113') in 0.049359 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.016804 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/1.QS1.Answer.png
+  artifactKey: Guid(e94976d8e799072498d09b41394838c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/1.QS1.Answer.png using Guid(e94976d8e799072498d09b41394838c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e325716600bb0ed5b2bb8939814ed2e5') in 0.013240 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.019156 seconds.
+  path: Assets/Sprites/Questiones/Unit1Exam/Unit1FirstExam/1.QS1.Answer.png
+  artifactKey: Guid(c86e71cf3a9fb4d4a8a4e3d435e03df9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit1Exam/Unit1FirstExam/1.QS1.Answer.png using Guid(c86e71cf3a9fb4d4a8a4e3d435e03df9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '428a6be8f32ace5d140fa8d2644dd41b') in 0.052777 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.016968 seconds.
+  path: Assets/Sprites/Questiones/Unit1Exam/Unit1FirstExam/1.QS2.Answer.png
+  artifactKey: Guid(8b51af1b6672854439760b99c1a1c8e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit1Exam/Unit1FirstExam/1.QS2.Answer.png using Guid(8b51af1b6672854439760b99c1a1c8e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b12828fdd955ec560740466427d107a') in 0.060540 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.022521 seconds.
+  path: Assets/Sprites/Questiones/Unit1Exam/Unit1LastExam/1.QS1.Answer.png
+  artifactKey: Guid(3100cf4efac398b4eafbd28d61a4e29f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit1Exam/Unit1LastExam/1.QS1.Answer.png using Guid(3100cf4efac398b4eafbd28d61a4e29f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ef557a811431cdecbed0c169bc8c03b') in 0.048598 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.019842 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/1.QS2.Answer.png
+  artifactKey: Guid(1dc53e84abc6a774ab2eed1c45018762) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/1.QS2.Answer.png using Guid(1dc53e84abc6a774ab2eed1c45018762) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c24ae0a29c284abc8751f149655790c6') in 0.047260 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.356947 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/1.QS3.Answer.png
+  artifactKey: Guid(2300b8c76d5bbf947adb1e98effa66a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/1.QS3.Answer.png using Guid(2300b8c76d5bbf947adb1e98effa66a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b558fc920d79832f6cab53a6a03c9a7d') in 0.145860 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015641 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/1.QS3.Answer.png
+  artifactKey: Guid(1eec278c6b7c3e343ae798a7f2dada37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/1.QS3.Answer.png using Guid(1eec278c6b7c3e343ae798a7f2dada37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24571b7fa44a36b9bdb8163bbd1d58bd') in 0.046330 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.405503 seconds.
+  path: Assets/Sprites/Questiones/Unit1Exam/Unit1LastExam/1.QS3.Answer.png
+  artifactKey: Guid(a011ebef873fb2d4e81d565fc3c9db1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit1Exam/Unit1LastExam/1.QS3.Answer.png using Guid(a011ebef873fb2d4e81d565fc3c9db1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0642952f4f1b14bf92a872b3a2e31d56') in 0.089855 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.337199 seconds.
+  path: Assets/Sprites/Questiones/Unit1Exam/Unit1FirstExam/1.QS3.Answer.png
+  artifactKey: Guid(09e9461af7e3f3143b2aa439cdc5eb85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit1Exam/Unit1FirstExam/1.QS3.Answer.png using Guid(09e9461af7e3f3143b2aa439cdc5eb85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcc93fa6d738c3f91d75545c2129c28b') in 0.040623 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.017179 seconds.
+  path: Assets/Sprites/Questiones/Unit1Exam/Unit1LastExam/1.QS4.Answer.png
+  artifactKey: Guid(fd7f4702563258942bb518574de9920e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit1Exam/Unit1LastExam/1.QS4.Answer.png using Guid(fd7f4702563258942bb518574de9920e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b38c6060528435792fb2b32a7f094d2b') in 0.066063 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.016914 seconds.
+  path: Assets/Sprites/Questiones/Unit1Exam/Unit1FirstExam/1.QS4.Answer.png
+  artifactKey: Guid(8be566c38a224744f946db067a6f04d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit1Exam/Unit1FirstExam/1.QS4.Answer.png using Guid(8be566c38a224744f946db067a6f04d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6f9d91c45ab3ebe2250361089d410d5') in 0.071989 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015918 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/1.QS4.Answer.png
+  artifactKey: Guid(8bd7b021ac7e71543a3b4df2f820a8e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/1.QS4.Answer.png using Guid(8bd7b021ac7e71543a3b4df2f820a8e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7568a5d8cab6c0e68029bd31d4d60255') in 0.040318 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.241164 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/1.QS4.Answer.png
+  artifactKey: Guid(38c9dab138843824890ecd296e325cc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/1.QS4.Answer.png using Guid(38c9dab138843824890ecd296e325cc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f8d09c77457e1f0e51356073338c963') in 0.065434 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015267 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/2.QS1.Answer.png
+  artifactKey: Guid(1ced21b52667a1d468dabe451a19252f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/2.QS1.Answer.png using Guid(1ced21b52667a1d468dabe451a19252f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba4151abcc59da391011a4d2ecb5e964') in 0.062436 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015391 seconds.
+  path: Assets/Sprites/Questiones/Unit1Exam/Unit1LastExam/2.QS1.Answer.png
+  artifactKey: Guid(34c1610498bce7544a6e489717acd560) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit1Exam/Unit1LastExam/2.QS1.Answer.png using Guid(34c1610498bce7544a6e489717acd560) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bfafe03f318f92434a8b6a1aaefac59') in 0.074245 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.480064 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/2.QS1.Answer.png
+  artifactKey: Guid(69fb933b560697a42a5ad007e1bab30e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/2.QS1.Answer.png using Guid(69fb933b560697a42a5ad007e1bab30e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43603a4e044571d4102715f533db00ef') in 0.050215 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.016872 seconds.
+  path: Assets/Sprites/Questiones/Unit1Exam/Unit1FirstExam/2.QS1.Answer.png
+  artifactKey: Guid(51b7b5eac841e7a459be8e75a42eddb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit1Exam/Unit1FirstExam/2.QS1.Answer.png using Guid(51b7b5eac841e7a459be8e75a42eddb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2d076ed37e29c9c6e902587834c68a0') in 0.009843 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.050627 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/2.QS2.Answer.png
+  artifactKey: Guid(84e38fd7eb20cbb498acd7561e979329) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/2.QS2.Answer.png using Guid(84e38fd7eb20cbb498acd7561e979329) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '743ae1fb38f4f71e8c10a0f372e6ec45') in 0.046184 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.390626 seconds.
+  path: Assets/Sprites/Questiones/Unit1Exam/Unit1FirstExam/2.QS2.Answer.png
+  artifactKey: Guid(c201c9979d2b4894d935f7a78e99ede3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit1Exam/Unit1FirstExam/2.QS2.Answer.png using Guid(c201c9979d2b4894d935f7a78e99ede3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aca2cae0f3b2a1d894c69fdf9c0278bf') in 0.097329 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015331 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/2.QS2.Answer.png
+  artifactKey: Guid(b6c3b64f2ec7f6e49bc704d86792c10e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/2.QS2.Answer.png using Guid(b6c3b64f2ec7f6e49bc704d86792c10e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99d721e3c199e3087a533160d4537392') in 0.066995 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015276 seconds.
+  path: Assets/Sprites/Questiones/Unit1Exam/Unit1LastExam/2.QS2.Answer.png
+  artifactKey: Guid(00398695d98ec564990f63ee2f32d9e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit1Exam/Unit1LastExam/2.QS2.Answer.png using Guid(00398695d98ec564990f63ee2f32d9e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46e3d9959900e848d52816a59fc0de8d') in 0.056426 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.598105 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/2.QS3.Answer.png
+  artifactKey: Guid(b821f68c1d80b1749b3d4b5c3ce01684) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/2.QS3.Answer.png using Guid(b821f68c1d80b1749b3d4b5c3ce01684) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e32e4febc2af8d7d173ea26b6ecb3f2f') in 0.039007 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.053016 seconds.
+  path: Assets/Sprites/Questiones/Unit1Exam/Unit1LastExam/2.QS3.Answer.png
+  artifactKey: Guid(c860f7379c6e1da47b2b6f8c9d56e209) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit1Exam/Unit1LastExam/2.QS3.Answer.png using Guid(c860f7379c6e1da47b2b6f8c9d56e209) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b1ecb9c9a534dab232d03bf71ac251d') in 0.052661 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.415533 seconds.
+  path: Assets/Sprites/Questiones/Unit1Exam/Unit1FirstExam/2.QS3.Answer.png
+  artifactKey: Guid(4b9fe292160abcf469f4848c4942aa22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit1Exam/Unit1FirstExam/2.QS3.Answer.png using Guid(4b9fe292160abcf469f4848c4942aa22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6d121ee3f3bed56677c70fe3fc5402a') in 0.046918 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.066651 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/2.QS3.Answer.png
+  artifactKey: Guid(cdb5663841c84634091dafc6fa30e13f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/2.QS3.Answer.png using Guid(cdb5663841c84634091dafc6fa30e13f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a256aa2ab55d5196cd060187c1a41bcd') in 0.067727 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.022696 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/2.QS4.Answer.png
+  artifactKey: Guid(e3e472ed8d568bc468e6a987ae56f1d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/2.QS4.Answer.png using Guid(e3e472ed8d568bc468e6a987ae56f1d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e2e2d16e31e880835405161daebf3c8') in 0.056486 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.283267 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/2.QS4.Answer.png
+  artifactKey: Guid(3f9257872234e084f9448f1f29e5eb30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/2.QS4.Answer.png using Guid(3f9257872234e084f9448f1f29e5eb30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f559db69b112429d7ca5571e40cedf15') in 0.052464 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015736 seconds.
+  path: Assets/Sprites/Questiones/Unit1Exam/Unit1FirstExam/2.QS4.Answer.png
+  artifactKey: Guid(ec3930868bc8a714493af06995aa0e36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit1Exam/Unit1FirstExam/2.QS4.Answer.png using Guid(ec3930868bc8a714493af06995aa0e36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0ff77a12ea95b92886ee39cdcfe8e4f') in 0.068000 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.017673 seconds.
+  path: Assets/Sprites/Questiones/Unit1Exam/Unit1LastExam/3.QS1.Answer.psd
+  artifactKey: Guid(a6ec593850ed85347a3930e803120393) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit1Exam/Unit1LastExam/3.QS1.Answer.psd using Guid(a6ec593850ed85347a3930e803120393) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd24710c162ebb3db9272bfa16f00482e') in 0.076220 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015910 seconds.
+  path: Assets/Sprites/Questiones/Unit1Exam/Unit1LastExam/2.QS4.Answer.png
+  artifactKey: Guid(0aaee617100cc9b4fba2f467ee572ddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit1Exam/Unit1LastExam/2.QS4.Answer.png using Guid(0aaee617100cc9b4fba2f467ee572ddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b59b8c938d015526b1892ebe8fc15a9') in 0.061839 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.178689 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/3.QS1.Answer.png
+  artifactKey: Guid(122af3deb4e6f7c47a8c8a2e7f38788d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/3.QS1.Answer.png using Guid(122af3deb4e6f7c47a8c8a2e7f38788d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b4c40813f7775462ef043917a4571ec') in 0.077981 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015948 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/3.QS1.Answer.png
+  artifactKey: Guid(11f4eabfadfa71a45a838c92d24d35a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/3.QS1.Answer.png using Guid(11f4eabfadfa71a45a838c92d24d35a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b13178ad911695506220654cff199b83') in 0.013013 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.017848 seconds.
+  path: Assets/Sprites/Questiones/Unit1Exam/Unit1FirstExam/3.QS1.Answer.psd
+  artifactKey: Guid(f079dd12a5018b844b2ab8aa9babb48f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit1Exam/Unit1FirstExam/3.QS1.Answer.psd using Guid(f079dd12a5018b844b2ab8aa9babb48f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3bec1c1e1cbdc03aecb4a81d8a74632') in 0.045672 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.845415 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/3.QS2.Answer.png
+  artifactKey: Guid(178f2a0609eb75a429d968e967bc532d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/3.QS2.Answer.png using Guid(178f2a0609eb75a429d968e967bc532d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f19af69fdfe52f89a389607cdc1a9349') in 0.059154 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015231 seconds.
+  path: Assets/Sprites/Questiones/Unit1Exam/Unit1FirstExam/3.QS2.Answer.psd
+  artifactKey: Guid(f2f3f8f44e73a0d4ab5fa44cea750c9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit1Exam/Unit1FirstExam/3.QS2.Answer.psd using Guid(f2f3f8f44e73a0d4ab5fa44cea750c9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef917e521525f0f5ca3fa2a06e8f7bb3') in 0.051330 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.016186 seconds.
+  path: Assets/Sprites/Questiones/Unit1Exam/Unit1LastExam/3.QS2.Answer.psd
+  artifactKey: Guid(197497413d15a504cb2bfbaf8e0d0ca1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit1Exam/Unit1LastExam/3.QS2.Answer.psd using Guid(197497413d15a504cb2bfbaf8e0d0ca1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9e75c0a36f284c7dc4bd177c0af6584') in 0.061755 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.016006 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/3.QS2.Answer.png
+  artifactKey: Guid(01d49ccbfaeb6014f8e999e0d57bc911) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/3.QS2.Answer.png using Guid(01d49ccbfaeb6014f8e999e0d57bc911) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7aabaf7dd3938c501be1b47723d64df5') in 0.063498 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.399916 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/3.QS3.Answer.png
+  artifactKey: Guid(0168eef0e380e44479e8574ec3b2508e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/3.QS3.Answer.png using Guid(0168eef0e380e44479e8574ec3b2508e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43b2c96e6a0c32e865698cea755df708') in 0.078522 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.390233 seconds.
+  path: Assets/Sprites/Questiones/Unit1Exam/Unit1FirstExam/3.QS3.Answer.psd
+  artifactKey: Guid(8f85d1d0c75f49446acb5fc7a54c995b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit1Exam/Unit1FirstExam/3.QS3.Answer.psd using Guid(8f85d1d0c75f49446acb5fc7a54c995b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bd5447bae323b36c5ab08151d8b6c0d') in 0.031964 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015771 seconds.
+  path: Assets/Sprites/Questiones/Unit1Exam/Unit1LastExam/3.QS3.Answer.psd
+  artifactKey: Guid(f47ee5185e7378746b01882b10263ef7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit1Exam/Unit1LastExam/3.QS3.Answer.psd using Guid(f47ee5185e7378746b01882b10263ef7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd86e9bc0c9a875654b9ba7b120b73449') in 0.055082 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015665 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/3.QS3.Answer.png
+  artifactKey: Guid(46171ce8d0fc44f4dbb4f2c4521d11e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/3.QS3.Answer.png using Guid(46171ce8d0fc44f4dbb4f2c4521d11e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1eb6e1c9f054fcbbb906ec8b47df576') in 0.058236 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.369621 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/3.QS4.Answer.png
+  artifactKey: Guid(53308a2e74c2749419dbb471fe2c0bb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/3.QS4.Answer.png using Guid(53308a2e74c2749419dbb471fe2c0bb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e1e20c4bf394535d5d9e2bbd15e3987') in 0.146582 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015393 seconds.
+  path: Assets/Sprites/Questiones/Unit1Exam/Unit1LastExam/3.QS4.Answer.psd
+  artifactKey: Guid(d8bd08c706e227a4296b626000202ddd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit1Exam/Unit1LastExam/3.QS4.Answer.psd using Guid(d8bd08c706e227a4296b626000202ddd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '053671c84b2c79c30b86892bbf5cf9f8') in 0.054538 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.016252 seconds.
+  path: Assets/Sprites/Questiones/Unit1Exam/Unit1FirstExam/3.QS4.Answer.psd
+  artifactKey: Guid(b3e49136456fb6444b020c49f0d97e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit1Exam/Unit1FirstExam/3.QS4.Answer.psd using Guid(b3e49136456fb6444b020c49f0d97e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e87e0c62c3f07f4254d9bc94ade858d8') in 0.140203 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.180063 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/3.QS4.Answer.png
+  artifactKey: Guid(cbe9cb7ba5b25d947a90e81d4f27754d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/3.QS4.Answer.png using Guid(cbe9cb7ba5b25d947a90e81d4f27754d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1e1b3d3ef7e1244edc507dc77952824') in 0.056476 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.016478 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/4.QS1.Answer.png
+  artifactKey: Guid(83958bb455945674f9ded03417a7304e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/4.QS1.Answer.png using Guid(83958bb455945674f9ded03417a7304e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad47e698e481a16843d365271f3b88f2') in 0.070254 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.016274 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/4.QS1.Answer.png
+  artifactKey: Guid(f2aef377ed3c82344bc1c3ed9876ffb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/4.QS1.Answer.png using Guid(f2aef377ed3c82344bc1c3ed9876ffb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d2507c9390cc22d9aeec623b1ebc536') in 0.060079 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.312096 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/4.QS2.Answer.png
+  artifactKey: Guid(37e4ffea26a952b448aebb6f99745f29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/4.QS2.Answer.png using Guid(37e4ffea26a952b448aebb6f99745f29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6365d5b3a469092862f8552e6c475957') in 0.040868 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.016261 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/4.QS2.Answer.png
+  artifactKey: Guid(95ac88c967217ad4a825cf6f585a15c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/4.QS2.Answer.png using Guid(95ac88c967217ad4a825cf6f585a15c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07a4805db6ea183da24f38bce6740297') in 0.042130 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015892 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/4.QS3.Answer.png
+  artifactKey: Guid(c4a083d1e15b4fd42a763503df0b227e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/4.QS3.Answer.png using Guid(c4a083d1e15b4fd42a763503df0b227e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd366eea07185d9870b45e9ea38cd1dcb') in 0.090507 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.024762 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/4.QS3.Answer.png
+  artifactKey: Guid(809d9728a563a7146a3cc949f3e490f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/4.QS3.Answer.png using Guid(809d9728a563a7146a3cc949f3e490f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc1711d270b9387ec2f4dbc4a0362024') in 0.095114 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.157796 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/4.QS4.Answer.png
+  artifactKey: Guid(d8e42ae517cd4524da6caa4baaf7ff12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/4.QS4.Answer.png using Guid(d8e42ae517cd4524da6caa4baaf7ff12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1f3ccecb3a67c953298b70da9af61d9') in 0.108727 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.018127 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/4.QS4.Answer.png
+  artifactKey: Guid(02cef33ab40cda645be9d8e5085874a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/4.QS4.Answer.png using Guid(02cef33ab40cda645be9d8e5085874a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71029145db75fc6e7ac657c8fdfc481b') in 0.055946 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.195963 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/5.QS1.Answer.png
+  artifactKey: Guid(7a5f0dde885b9b64d81f59c411683ab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/5.QS1.Answer.png using Guid(7a5f0dde885b9b64d81f59c411683ab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac294e8b5ba4e29109909ca4e60cfaee') in 0.071390 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015932 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/5.QS1.Answer.png
+  artifactKey: Guid(d1878ce230becea41971fa4cfbdbe521) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/5.QS1.Answer.png using Guid(d1878ce230becea41971fa4cfbdbe521) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd79daf12270c5af43725dd67da346235') in 0.054667 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015698 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/5.QS2.Answer.png
+  artifactKey: Guid(e54beaaf1cc4125449d5a38fa2919875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/5.QS2.Answer.png using Guid(e54beaaf1cc4125449d5a38fa2919875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '710abac406027ab8f0d307799517ae5b') in 0.040852 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015168 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/5.QS2.Answer.png
+  artifactKey: Guid(96fb5c5a050f91344b72518f4d597527) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/5.QS2.Answer.png using Guid(96fb5c5a050f91344b72518f4d597527) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a39a40b95e06243a6de01d41700c1116') in 0.044410 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.999091 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/5.QS3.Answer.png
+  artifactKey: Guid(671251e55cd615c43b3f834b0ebf2bf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/5.QS3.Answer.png using Guid(671251e55cd615c43b3f834b0ebf2bf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dafb4fcb9be0e78b13d60629b4363eba') in 0.055261 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015709 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/5.QS4.Answer.png
+  artifactKey: Guid(abed46d57e6fdbd48a8ad36ffdf47802) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/5.QS4.Answer.png using Guid(abed46d57e6fdbd48a8ad36ffdf47802) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ef54d68d1dac8a6e00de68c9f6b9245') in 0.039781 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.016463 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/6.QS4.Answer.png
+  artifactKey: Guid(3ad96611c4c88b84581d78e1836b254a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/6.QS4.Answer.png using Guid(3ad96611c4c88b84581d78e1836b254a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdbdcea090d2a3fb6d49ee18c76facb8') in 0.059813 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.018094 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/7.QS4.Answer.png
+  artifactKey: Guid(57298ea32de5be34a95f7a11b00c481c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/7.QS4.Answer.png using Guid(57298ea32de5be34a95f7a11b00c481c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a29c1aa7b7f59f4b39e775f705c1a876') in 0.042568 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.017086 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/7.QS1.Answer.png
+  artifactKey: Guid(b0e4e50a7907c344d8de8a045c172aea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/7.QS1.Answer.png using Guid(b0e4e50a7907c344d8de8a045c172aea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbcd6db074ccaefa7824fc8293652b83') in 0.064766 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.018269 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/5.QS4.Answer.png
+  artifactKey: Guid(869b2920e69fc244ab19b522721d7ad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/5.QS4.Answer.png using Guid(869b2920e69fc244ab19b522721d7ad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '409862104d4f90b8a8cdfc95f7d07c51') in 0.049847 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.022954 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/6.QS4.Answer.png
+  artifactKey: Guid(98c7091cc33570847adf6c293e6e9975) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/6.QS4.Answer.png using Guid(98c7091cc33570847adf6c293e6e9975) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b896acb41872245b1907f356f23c2160') in 0.039670 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.016908 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/6.QS1.Answer.png
+  artifactKey: Guid(959f13936a56c204a90b4142f4ba9221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/6.QS1.Answer.png using Guid(959f13936a56c204a90b4142f4ba9221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '894218b8696416d5e4a474b7d08a773a') in 0.054965 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.017690 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/6.QS1.Answer.png
+  artifactKey: Guid(3d6670472ee4884469e21bd619e2e762) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/6.QS1.Answer.png using Guid(3d6670472ee4884469e21bd619e2e762) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90ac8d2ece46bb8bfb9d3d1105bbf9dc') in 0.055649 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015829 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/7.QS2.Answer.png
+  artifactKey: Guid(a373c50c9cca8424baa1395bf6b85f31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/7.QS2.Answer.png using Guid(a373c50c9cca8424baa1395bf6b85f31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c8573f529e4587635c9fbcfb59556f2') in 0.043341 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.018860 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/5.QS3.Answer.png
+  artifactKey: Guid(7934f38eee2d4c847b74c71fe8128b85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/5.QS3.Answer.png using Guid(7934f38eee2d4c847b74c71fe8128b85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fd3ccc392e636eac7f6870aa9c45a33') in 0.033842 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.017202 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/6.QS2.Answer.png
+  artifactKey: Guid(0b67868dff850c441b60ff21c253c2ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/6.QS2.Answer.png using Guid(0b67868dff850c441b60ff21c253c2ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebbeeac09511c66b514237bbeb1ef5f8') in 0.065222 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.017178 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/6.QS3.Answer.png
+  artifactKey: Guid(7a18055a8f68cf44f89d825581c66bf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/6.QS3.Answer.png using Guid(7a18055a8f68cf44f89d825581c66bf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '884b833e945120570953617d6aff56da') in 0.045211 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015903 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/6.QS3.Answer.png
+  artifactKey: Guid(6b16fc4eb8cbec94281608b5d92ee478) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/6.QS3.Answer.png using Guid(6b16fc4eb8cbec94281608b5d92ee478) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf24f2bc8c765cad94f728756aa417e4') in 0.043037 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.016002 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/6.QS2.Answer.png
+  artifactKey: Guid(91ae341e0f8e72b46a759e52051165f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/6.QS2.Answer.png using Guid(91ae341e0f8e72b46a759e52051165f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bd278effb95e742207580e9e80eba20') in 0.012350 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.017255 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/7.QS1.Answer.png
+  artifactKey: Guid(5e5e3ac7bdd2a88498b419375a30452e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/7.QS1.Answer.png using Guid(5e5e3ac7bdd2a88498b419375a30452e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f847b1f4441dd1a64051f711af620911') in 0.075406 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.019957 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/7.QS3.Answer.png
+  artifactKey: Guid(ea0b55ac18958a14fbd8e23b3b89e027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/7.QS3.Answer.png using Guid(ea0b55ac18958a14fbd8e23b3b89e027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac21456519f5727b32708e15fbe805f5') in 0.049870 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015560 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/7.QS3.Answer.png
+  artifactKey: Guid(0fb5abbd770c8ca45a74c4482a1c011b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/7.QS3.Answer.png using Guid(0fb5abbd770c8ca45a74c4482a1c011b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '483c1ad9cfd8b90033efa23612d39b31') in 0.038072 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.016383 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/7.QS2.Answer.png
+  artifactKey: Guid(64d2b4d43172c35479d47f525ec795a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2SecondExam/7.QS2.Answer.png using Guid(64d2b4d43172c35479d47f525ec795a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a49e5c9539213931e082b347cfe003c') in 0.034699 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015758 seconds.
+  path: Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/7.QS4.Answer.png
+  artifactKey: Guid(5d4927730a90b4d40bc83cee03b88f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit2Exam/Unit2FirstExam/7.QS4.Answer.png using Guid(5d4927730a90b4d40bc83cee03b88f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3552edfe1cb2be46793ad65cf4eb05d9') in 0.036258 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7246.485050 seconds.
+  path: Assets/Sprites/Questiones/Unit3Exam/Unit3SecondExam
+  artifactKey: Guid(420257dc89a361c429a521cae99a967a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Questiones/Unit3Exam/Unit3SecondExam using Guid(420257dc89a361c429a521cae99a967a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6588bd848970cd3c2dfb1a7c835f59ba') in 0.013457 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
